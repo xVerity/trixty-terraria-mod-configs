@@ -1,0 +1,13 @@
+{
+  "CatchNPCs": false,
+  "NPCSales": false,
+  "ExtraBuffSlots": 99,
+  "StalkerMoneyTrough": false,
+  "RottenEggs": false,
+  "Fountains": false,
+  "PermanentStationsNearby": false,
+  "BossZen": false,
+  "FasterLavaFishing": false,
+  "TorchGodEX": false,
+  "PylonsIgnoreEvents": false
+}

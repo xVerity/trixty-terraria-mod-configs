@@ -1,0 +1,177 @@
+{
+  "ChanceForModifier": 15,
+  "ModifierAmount": 10,
+  "ChanceForExtraModifier": 10,
+  "NPCBlacklist": [
+    {
+      "Name": "WallCreeper",
+      "DisplayName": "Wall Creeper"
+    },
+    {
+      "Name": "WallCreeperWall",
+      "DisplayName": "Wall Creeper"
+    },
+    {
+      "Name": "BlackRecluse",
+      "DisplayName": "Black Recluse"
+    },
+    {
+      "Name": "BlackRecluseWall",
+      "DisplayName": "Black Recluse"
+    },
+    {
+      "Name": "JungleCreeper",
+      "DisplayName": "Jungle Creeper"
+    },
+    {
+      "Name": "JungleCreeperWall",
+      "DisplayName": "Jungle Creeper"
+    },
+    {
+      "Name": "BloodCrawler",
+      "DisplayName": "Blood Crawler"
+    },
+    {
+      "Name": "BloodCrawlerWall",
+      "DisplayName": "Blood Crawler"
+    },
+    {
+      "Name": "DesertScorpionWall",
+      "DisplayName": "Sand Poacher"
+    },
+    {
+      "Name": "DesertScorpionWall",
+      "DisplayName": "Sand Poacher"
+    },
+    {
+      "Name": "BurningSphere",
+      "DisplayName": "Burning Sphere"
+    },
+    {
+      "Name": "ChaosBall",
+      "DisplayName": "Chaos Ball"
+    },
+    {
+      "Name": "WaterSphere",
+      "DisplayName": "Water Sphere"
+    },
+    {
+      "Name": "VileSpit",
+      "DisplayName": "Vile Spit"
+    },
+    {
+      "Name": "VileSpitEaterOfWorlds",
+      "DisplayName": "Vile Spit"
+    },
+    {
+      "Name": "DetonatingBubble",
+      "DisplayName": "Detonating Bubble"
+    },
+    {
+      "Name": "SolarFlare",
+      "DisplayName": "Solar Flare"
+    },
+    {
+      "Name": "SolarGoop",
+      "DisplayName": "Solar Fragment"
+    },
+    {
+      "Name": "AncientLight",
+      "DisplayName": "Ancient Light"
+    },
+    {
+      "Name": "AncientDoom",
+      "DisplayName": "Ancient Doom"
+    },
+    {
+      "Name": "CultistBossClone",
+      "DisplayName": "Lunatic Cultist"
+    },
+    {
+      "Name": "SpikeBall",
+      "DisplayName": "Spike Ball"
+    },
+    {
+      "Name": "DD2EterniaCrystal",
+      "DisplayName": "Eternia Crystal"
+    },
+    {
+      "Name": "DD2LanePortal",
+      "DisplayName": "Mysterious Portal"
+    },
+    {
+      "Name": "EaterofWorldsHead",
+      "DisplayName": "Eater of Worlds"
+    },
+    {
+      "Name": "EaterofWorldsBody",
+      "DisplayName": "Eater of Worlds"
+    },
+    {
+      "Name": "EaterofWorldsTail",
+      "DisplayName": "Eater of Worlds"
+    },
+    {
+      "Name": "DD2LanePortal",
+      "DisplayName": "Mysterious Portal"
+    },
+    {
+      "Name": "DD2EterniaCrystal",
+      "DisplayName": "Eternia Crystal"
+    },
+    {
+      "Name": "LunarTowerNebula",
+      "DisplayName": "Nebula Pillar"
+    },
+    {
+      "Name": "LunarTowerSolar",
+      "DisplayName": "Solar Pillar"
+    },
+    {
+      "Name": "LunarTowerStardust",
+      "DisplayName": "Stardust Pillar"
+    },
+    {
+      "Name": "LunarTowerVortex",
+      "DisplayName": "Vortex Pillar"
+    },
+    {
+      "Mod": "Fargowiltas",
+      "Name": "SuperDummy",
+      "DisplayName": "Super Dummy"
+    },
+    {
+      "Mod": "FargowiltasSouls",
+      "Name": "ShadowOrbNPC",
+      "DisplayName": "Shadow Orb"
+    },
+    {
+      "Mod": "FargowiltasSouls",
+      "Name": "CrystalLeaf",
+      "DisplayName": "Crystal Leaf"
+    }
+  ],
+  "ModifierBlacklist": [
+    {
+      "ModifierEnum": 26
+    },
+    {
+      "ModifierEnum": 77
+    },
+    {
+      "ModifierEnum": 41
+    },
+    {
+      "ModifierEnum": 58
+    },
+    {
+      "ModifierEnum": 68
+    },
+    {
+      "ModifierEnum": 72
+    },
+    {
+      "ModifierEnum": 76
+    }
+  ]
+}

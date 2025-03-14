@@ -1,0 +1,15 @@
+{
+  "WikiStatusMessage": false,
+  "FasterFallHotkey": false,
+  "BossZen": false,
+  "PotionSelling": false,
+  "TownNPCsSpawnAtNight": true,
+  "TownNPCSpawnRateMultiplier": 10,
+  "DefaultDashEnabled": false,
+  "FasterBaseSpeed": false,
+  "HigherJumpHeight": false,
+  "FasterJumpSpeed": false,
+  "FasterTilePlacement": false,
+  "NerfExpertDebuffs": false,
+  "RemoveLavaDropsFromLavaSlimes": false
+}

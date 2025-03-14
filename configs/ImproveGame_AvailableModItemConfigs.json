@@ -1,0 +1,18 @@
+{
+  "AvailableMagickWand": false,
+  "AvailableSpaceWand": false,
+  "AvailableStarburstWand": false,
+  "AvailableWallPlace": false,
+  "AvailableCreateWand": false,
+  "AvailableLiquidWand": false,
+  "AvailableLiquidWandAdvanced": false,
+  "AvailableAutofisher": false,
+  "AvailablePaintWand": false,
+  "AvailableConstructWand": false,
+  "AvailableMoveChest": false,
+  "AvailableCoinOne": false,
+  "AvailableExtremeStorage": false,
+  "AvailableDetectorDrone": false,
+  "AvailableBaitSupplier": false,
+  "AvailableActuationRodMkII": false
+}

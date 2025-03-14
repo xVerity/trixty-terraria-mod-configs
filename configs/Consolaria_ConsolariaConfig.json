@@ -1,0 +1,7 @@
+{
+  "easterEnabled": true,
+  "thanksgivingEnabled": true,
+  "smallEventsEnabled": true,
+  "heartbeatariaIntegrationEnabled": false,
+  "tizonaZenithIntegrationEnabled": false
+}

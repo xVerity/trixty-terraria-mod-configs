@@ -1,0 +1,10 @@
+{
+  "showWelcome": false,
+  "manaConsumption": 0.0,
+  "oreMultiplier": 1.0,
+  "tileBlacklistToggled": false,
+  "tileBlacklist": [],
+  "wallBlacklist": [],
+  "itemBlacklistToggled": false,
+  "itemBlacklist": []
+}
